@@ -1,0 +1,3 @@
+0 happay
+1 angry
+2 sad
